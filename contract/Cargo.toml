@@ -2,7 +2,7 @@
 name = "waltid_nftkit"
 version = "1.0.0"
 authors = ["khaled battiche <khaled@walt.id>"]
-edition = "2022"
+edition = "2021"
 
 [lib]
 crate-type = ["cdylib" , "rlib"]

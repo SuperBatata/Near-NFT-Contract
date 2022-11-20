@@ -480,14 +480,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "2540771e65fc8cb83cd6e8a237f70c319bd5c29f78ed1084ba5d50eeac86f7f9"
 
 [[package]]
-name = "hello_near"
-version = "1.0.0"
-dependencies = [
- "near-sdk",
- "uint",
-]
-
-[[package]]
 name = "hex"
 version = "0.4.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1355,6 +1347,15 @@ name = "version_check"
 version = "0.9.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "49874b5167b65d7193b8aba1567f5c7d93d001cafc34600cee003eda787e483f"
+
+[[package]]
+name = "waltid_nftkit"
+version = "1.0.0"
+dependencies = [
+ "near-sdk",
+ "serde_json",
+ "uint",
+]
 
 [[package]]
 name = "wasi"
