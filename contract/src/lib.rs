@@ -98,7 +98,6 @@ impl Contract {
                 Some(&metadata),
             ),
         };
-
         //return the Contract object
         this
     }

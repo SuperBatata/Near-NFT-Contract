@@ -14,5 +14,15 @@
   "devDependencies": {
     "near-cli": "^3.3.0"
   },
-  "dependencies": {}
+  "description": "near-blank-project ==================",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperBatata/Near-NFT-Contract.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/SuperBatata/Near-NFT-Contract/issues"
+  },
+  "homepage": "https://github.com/SuperBatata/Near-NFT-Contract#readme"
 }
